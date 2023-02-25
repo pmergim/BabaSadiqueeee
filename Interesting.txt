@@ -1,0 +1,3 @@
+Not true. You can go private for free. I have many more repos private than public. I only have a few projects that I use Github pages with. A majority of work is displayed through Netlify (I love Netlify forms and Netlify CMS, so easy to setup and use).
+
+I totally get the need for privacy. I just like to give people options on here. One route is not the only way for everyone. :) 
